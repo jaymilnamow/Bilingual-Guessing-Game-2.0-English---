@@ -8,3 +8,18 @@ public class Game {
 
 
 }
+
+
+/*
+Game:
+
+-secretNum: int
++User: user
++Display: display
+
+compare()
+equals()
+run()
+genSecretNum()
+ */
+
